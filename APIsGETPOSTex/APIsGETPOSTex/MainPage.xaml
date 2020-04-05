@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="APIsGETPOSTex.MainPage">
+
+    <StackLayout>
+        <Entry x:Name="etname" Placeholder="employee_name" FontSize="Small"/>
+        <Entry x:Name="etsalary" Placeholder="employee_salary" FontSize="Small"/>
+        <Entry x:Name="etage" Placeholder="employee_age" FontSize="Small"/>
+        <Button x:Name="btnAdd" Text="Add"/>
+        <Button  Text="butoon"/>
+
+
+        <ListView x:Name="lblist" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="{Binding id}"/>
+                                <Label Text="{Binding employee_name }" FontSize="Default" />
+                                <Label Text="{Binding employee_salary}" FontSize="Default"/>
+                                <Label Text="{Binding employee_age }" FontSize="Default"/>
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

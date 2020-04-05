@@ -1,0 +1,16 @@
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\bin\Debug\netstandard2.0\APIsGETPOSTex.deps.json
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\bin\Debug\netstandard2.0\APIsGETPOSTex.dll
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\APIsGETPOSTex.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\APIsGETPOSTex.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\APIsGETPOSTex.AssemblyInfo.cs
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\bin\Debug\netstandard2.0\ref\APIsGETPOSTex.dll
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\bin\Debug\netstandard2.0\APIsGETPOSTex.pdb
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\APIsGETPOSTex.dll
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\ref\APIsGETPOSTex.dll
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\APIsGETPOSTex.pdb
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\GetDetailspage.xaml.g.cs
+C:\Users\santosh\source\repos\APIsGETPOSTex\APIsGETPOSTex\APIsGETPOSTex\obj\Debug\netstandard2.0\DeletePageE.xaml.g.cs
